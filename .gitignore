@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-bin
-obj
-=======
->>>>>>> main
+
 # Ignorar diretórios bin e obj
-bin/*
-obj/*
+bin/
+obj/
 
 # Ignorar arquivos de configuração
 *.user
@@ -35,11 +29,4 @@ packages/
 _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
-<<<<<<< HEAD
-=======
-bin
-obj
->>>>>>> main
-=======
->>>>>>> 6be8b631a84cb0a63e5ad8d3a7a33bcb16324d04
->>>>>>> main
+
